@@ -33,8 +33,7 @@ REACT / JS / HTML / CSS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvraj-singh-shekhawat&show_icons=true&theme=radical)
 
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dhruvraj-singh-shekhawat)  
+  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dhruvraj-singh-shekhawat)  
 
