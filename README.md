@@ -22,10 +22,14 @@ REACT / JS / HTML / CSS
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-**Trophies
+**Trophies**
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhruvraj-singh-shekhawat)](https://github.com/ryo-ma/github-profile-trophy)
 
-**Stats
+**Stats**
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvraj-singh-shekhawat&show_icons=true&theme=radical)
 
 
