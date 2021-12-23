@@ -2,11 +2,11 @@
 ![](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 I am a High School Kid from Jaipur, India. I like learning new languages. You can follow me on Twitter at https://twitter.com/dhruvrajsingh27
-
+	
 **Skills**
 REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working Linux Development. 
+**⬇⬇**
 
 ![Profile views](https://camo.githubusercontent.com/548076e649d9b7bd465a97b67c6d8d50a25afd63b6d24ad5f7cabcc22f0a1cc6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667)
 
