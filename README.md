@@ -6,8 +6,15 @@ I am a High School Kid from Jaipur, India. I like learning new languages. You ca
 **Skills**
 REACT / JS / HTML / CSS
 
+Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvraj-singh-shekhawat)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🔭 I’m currently working Linux Development. 
 
+![Profile views](https://camo.githubusercontent.com/548076e649d9b7bd465a97b67c6d8d50a25afd63b6d24ad5f7cabcc22f0a1cc6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667)
+
+**Social Media**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dhruvraj-singh-shekhawat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/dhruvrajsinghshekhawat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dhruvraj-singh-shekhawat-364aa201/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dhruvrajsingh27)  
 
@@ -16,9 +23,10 @@ REACT / JS / HTML / CSS
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhruvraj-singh-shekhawat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvraj-singh-shekhawat&show_icons=true)  
-               
+               (https://github-readme-stats.vercel.app/api?username=dhruvraj-singh-shekhawat&show_icons=true&theme=radical)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dhruvraj-singh-shekhawat)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dhruvraj-singh-shekhawat)  
 
-![Profile views](https://camo.githubusercontent.com/548076e649d9b7bd465a97b67c6d8d50a25afd63b6d24ad5f7cabcc22f0a1cc6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667) 
+ 
