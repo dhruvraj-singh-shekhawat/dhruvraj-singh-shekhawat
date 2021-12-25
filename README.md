@@ -31,7 +31,7 @@ REACT / JS / HTML / CSS
 **Trophies**
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhruvraj-singh-shekhawat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Stats**
 
