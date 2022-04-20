@@ -6,7 +6,7 @@ hi, i'm [Dhruvraj Singh](http://dhruvtechgeek.tk/), a simple guy who loves codin
 
   <img align="right" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" height="320" />
   
-- 💼 any question? do reach, [email](mailto:dhruvrajsekhawat@gmail.com) :)
+- 💼 any question? do reach, [<img height="20" src="https://w7.pngwing.com/pngs/431/905/png-transparent-email-logo-bounce-address-computer-icons-message-email-miscellaneous-angle-text.png">](mailto:dhruvrajsekhawat@gmail.com) 
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
