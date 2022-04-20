@@ -6,7 +6,7 @@ hi, i'm [Dhruvraj Singh](http://dhruvtechgeek.tk/), a simple guy who loves codin
 
   <img align="right" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" height="320" />
   
-- 💼 any question? do reach, [<img height="20" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1626355319613x484158047569452200%2FGmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max">](mailto:dhruvrajsekhawat@gmail.com) 
+- 💼 any question? do reach, [<img height="30" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1626355319613x484158047569452200%2FGmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max">](mailto:dhruvrajsekhawat@gmail.com) 
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
