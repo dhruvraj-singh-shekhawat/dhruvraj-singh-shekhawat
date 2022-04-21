@@ -1,4 +1,4 @@
-### hey there <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="75 px">
+### hey there <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="50 px">
 
 
 hi, i'm [Dhruvraj Singh](http://dhruvtechgeek.tk/), a simple guy who loves coding and computer stuff
