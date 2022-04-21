@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hey there <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="75 px">
 
 
 hi, i'm [Dhruvraj Singh](http://dhruvtechgeek.tk/), a simple guy who loves coding and computer stuff
