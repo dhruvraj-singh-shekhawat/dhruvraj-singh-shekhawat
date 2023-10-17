@@ -4,5 +4,5 @@
 ✨ I'm a frontend engineer and love writing blog post mostly about tech. 
 
 ## *Connect me?*
-- **[X](https://x.com/dhruxraj) Here I share my work & thoughts.**
-- **[LinkedIn](https://linkedin.com/in/dhruxraj) Professional networking and career development.**
+- **[X](https://x.com/dhruxraj) Here I share my work & thoughts.**✨
+- **[LinkedIn](https://linkedin.com/in/dhruxraj) Professional networking and career development.**🧑🏻‍💻
