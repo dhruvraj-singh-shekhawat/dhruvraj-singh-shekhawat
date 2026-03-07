@@ -1,33 +1,84 @@
-<h1 align="center">Hi, I'm <a href="https://dhruvraj-nu.vercel.app/">dhruvraj</a>!</h1>
-<p align="center">
-  <a href="https://dhruvraj-nu.vercel.app/">
-    <img src="https://github.com/dhruxraj/dhruxraj/blob/main/view.gif" alt="yuna0x0">
-  </a>
-</p>
-<h3 align="center">Welcome to my GitHub profile :3</h3>
-
-<p align="center">❤𐌂Ꝋ𐌃𐌉𐌍Ᏽ 𐌀𐌍𐌃 𐌕𐌓𐌀𐌉𐌍𐌉𐌍Ᏽ 𐌌Ꝋ𐌃𐌄𐌋𐌔 𐌁𐌙 𐌃𐌀𐌙, Ꮤ𐌓𐌉𐌕𐌉𐌍Ᏽ 𐌁𐌋ꝊᏵ𐌔 𐌀𐌍𐌃 Ꮤ𐌀𐌕𐌂𐋅𐌉𐌍Ᏽ 𐌀𐌍𐌉𐌌𐌄 𐌁𐌙 𐌍𐌉Ᏽ𐋅𐌕 🌙</p>
+<h1 align="center">Dhruvraj Singh Shekhawat</h1>
 
 <p align="center">
-  <strong><a href="https://dhruvraj-nu.vercel.app">Website</a></strong> |
-  <strong><a href="https://x.com/dhruxraj">Twitter</a></strong>
+ECE Student • AI Projects • Systems Curiosity
 </p>
 
 <p align="center">
-  <a href="https://github.com/dhruxraj"><img src="https://github-readme-stats.vercel.app/api?username=dhruxraj&hide_border=true&show_icons=true" alt="dhruxraj's github stats"></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1200&color=BB9AF7&center=true&vCenter=true&width=750&lines=Electrical+and+Communication+Engineering;AI+and+Deep+Learning+Projects;Exploring+Systems+and+Semiconductors" />
 </p>
 
-<!--
-**yuna0x0/yuna0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About
+
+- BTech in **Electrical and Communication Engineering**
+- Interested in **Artificial Intelligence, System Programming and Semiconductors**
+- Built projects using **Python, Java, Keras, TensorFlow and MATLAB**
+- Exploring **embedded systems and deeper computer architecture**
+
+---
+
+# Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,keras,git,github,mysql,matlab,vscode&theme=dark"/>
+</p>
+
+---
+
+# Projects
+
+### Semantic Segmentation using U-Net
+Deep learning model for **aerial imagery segmentation** built using **Keras + TensorFlow**.
+
+### Wireless Power Transfer for EVs
+MATLAB simulation studying **coil misalignment effects and efficiency in wireless EV charging**.
+
+### Portfolio Website
+Personal portfolio website showcasing projects, blog ideas and research work.
+
+### PDF to DOCX Converter
+Utility web tool to convert documents between formats.
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruxraj&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruxraj&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dhruxraj/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://stackoverflow.com/users/20822266/dhruvraj-singh-shekhawat">
+<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+
+<a href="https://myanimelist.net/profile/lordwaine">
+<img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="450">
+</p>
